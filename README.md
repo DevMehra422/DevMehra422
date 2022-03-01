@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <a href="https://app.daily.dev/Devjeet_Singh"><img src="https://api.daily.dev/devcards/59ce46f84eab4f3cb775d462c0efe288.png?r=tcd" width="400" alt="Devjeet Singh Mehra's Dev Card"/></a>
 <!--
 **DevMehra422/DevMehra422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
